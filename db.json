@@ -3,19 +3,19 @@
         {
             "title": "Hair coloring",
             "id": "1",
-            "rate": "85"
+            "rate": "85",
             "selected":"false"
             },
          {
             "title": "Haircut",
             "id": "2",
-            "rate":"100"
+            "rate":"100",
            "selected":"false"
             },
          {
              "title":"Beard trim",
              "id": "3",
-             "rate":"50"
+             "rate":"50",
            "selected":"false"
          }  
          
