@@ -4,19 +4,22 @@
             "title": "Hair coloring",
             "id": "1",
             "rate": "Rs.85",
-            "selected":false
+            "selected":false,
+            "duration":"45"
             },
          {
             "title": "Haircut",
             "id": "2",
             "rate":"Rs.100",
-           "selected":false
+           "selected":false,
+           "duration":"30"
             },
          {
              "title":"Beard trim",
              "id": "3",
              "rate":"Rs.50",
-           "selected":false
+             "selected":false,
+             "duration":"15"
          }  
          
        
