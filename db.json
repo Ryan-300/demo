@@ -20,7 +20,26 @@
              "rate":"Rs.50",
              "selected":false,
              "duration":"15"
-         }  
+         },
+    {
+             "title":"Scalp Treatment",
+             "id": "4",
+             "rate":"Rs.100",
+             "selected":false,
+             "duration":"30"
+    },
+    {       "title":"Facial",
+             "id": "5",
+             "rate":"Rs.50",
+             "selected":false,
+             "duration":"15"
+    },
+     {       "title":"Shaving",
+             "id": "6",
+             "rate":"Rs.50",
+             "selected":false,
+             "duration":"20"
+    }
          
        
     ]
